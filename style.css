@@ -1,0 +1,97 @@
+body {
+	background-color: #1d2021;
+	text-align: center;
+	font-family: consolas, monospace;
+}
+
+main a {
+	color: #fbf1c7;
+}
+
+main p:hover {
+	background-color: #32302f;
+	color: #32302f;
+}
+
+.dir:hover {
+	color: #8ec07c;
+}
+
+.text:hover {
+	color: #fbf1c7;
+}
+
+.vimtitle {
+	font-size: 11px;
+	color: #fbf1c7;
+	background-color: #32302f;
+}
+
+.vimbox {
+	text-align: left;
+	font-size: 11px;
+	background-color: #282828;
+	border-color: #32302f;
+	border-width: 10;
+	border-style: solid;
+	height: 225px;
+}
+
+.dir {
+	color: #8ec07c;
+}
+
+.indent {
+	color: #282828;
+}
+
+.selected {
+	background-color: #32302f;
+}
+
+.indent-selected {
+	color: #282828;
+	background-color: #32302f;
+}
+
+/*
+
+footer {
+	text-align: left;
+}
+
+*/
+
+nav {
+	text-align: left;
+}
+
+nav a img {
+	height: 40px;
+}
+
+header img {
+	height: 100px;
+}
+
+h1 {
+	color: #8ec07c;
+}
+
+p {
+	color: #fbf1c7;
+}
+
+a {
+	color: #928374;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+b {
+  text-decoration: bold;
+  color: #af3a03;
+}
