@@ -34,7 +34,6 @@ main p:hover {
 	border-color: #32302f;
 	border-width: 10;
 	border-style: solid;
-	height: 225px;
 }
 
 .dir {
@@ -46,6 +45,11 @@ main p:hover {
 }
 
 .selected {
+	background-color: #32302f;
+}
+
+.break {
+	color: #32302f;
 	background-color: #32302f;
 }
 
