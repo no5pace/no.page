@@ -1,5 +1,5 @@
 TO-DO:
-> get rid of the package.json files in each individual bot folder, and instead have a global one for the whole website
+> transfer all major c, lua, and web projects onto Github and have them linked to on the website (if they're on Replit, also have that link)
 
 Domain Names:
 > no.page		(i really like this one)
