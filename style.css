@@ -13,6 +13,10 @@ main p:hover {
 	color: #32302f;
 }
 
+main h2:hover {
+	background-color: #32302f;
+}
+
 .dir:hover {
 	color: #8ec07c;
 }
@@ -79,6 +83,10 @@ header img {
 }
 
 h1 {
+	color: #8ec07c;
+}
+
+h2 {
 	color: #8ec07c;
 }
 
