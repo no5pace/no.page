@@ -38,6 +38,7 @@ main h2:hover {
 	border-color: #32302f;
 	border-width: 10;
 	border-style: solid;
+	height: 450px;
 }
 
 .dir {
